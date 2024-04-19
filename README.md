@@ -82,5 +82,5 @@ Thought Process:
   2. We can modify this code to point to the PIR sensors which are placed on opposite sides of the Stepper.
 
 References:
-  1. https://www.youtube.com/watch?v=idVcItHfGS4
-  2. https://www.makerguides.com/tb6600-stepper-motor-driver-arduino-tutorial/
+  1. https://www.youtube.com/watch?v=idVcItHfGS4   I Learnt the PinOuts and Some connections of the TB660 to Arduino
+  3. https://www.makerguides.com/tb6600-stepper-motor-driver-arduino-tutorial/    I learnt about the code and Direction setting and Step changing of the Stepper from Here
