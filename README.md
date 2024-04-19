@@ -1,5 +1,5 @@
 # Mars_Task-2
-<u>Objective:</u>
+Objective:
   1. To connect two IR Sensors and a Stepper Motor through a TB660 Stepper Motor driver to an Arduino by making the appropriate  connections
   2. To program it in such a way that the Stepper Motoe will change it's direction everytime it detects a different ir Sensor
   3. Connect the battery and check it's working
